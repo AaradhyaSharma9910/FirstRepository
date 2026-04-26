@@ -1,4 +1,4 @@
 # FirstRepository
 This is my first Git Repository.
 <br>
-Author - Aaradhya Sharma
+Author - Aaradhya Sharma (Software Engineer)
