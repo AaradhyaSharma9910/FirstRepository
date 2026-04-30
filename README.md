@@ -1,4 +1,7 @@
 # FirstRepository
-This is my first Git Repository.
-<br>
-Author - Aaradhya Sharma (Software Engineer)
+
+This is my first Git repository.
+
+## Author
+Aaradhya Sharma  
+Aspiring Software Engineer
